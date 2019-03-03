@@ -1,0 +1,2 @@
+# Econometrics
+R, RSTUDIO, STATA
